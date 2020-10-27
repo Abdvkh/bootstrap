@@ -5,3 +5,19 @@
 .custom-brand {
 	border-color: 2px bold red;
 }
+
+.custom-container {
+	border: 5px solid green;
+}
+
+.custom-container {
+	border: 1px solid red;
+}
+
+.light{
+	border-color: #e2e2e2;
+}
+
+.border-black{
+	border-color: black; 
+}
